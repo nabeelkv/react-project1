@@ -1,0 +1,12 @@
+h1 {
+    background-color: brown;
+    color: #fff;
+}
+
+p {
+    text-transform: capitalize;
+}
+
+.center {
+    text-align: center;
+}
